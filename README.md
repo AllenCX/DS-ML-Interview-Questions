@@ -4,6 +4,27 @@
 Last update: 11/16/2018
 To be a good DS or MLE, you have to answer most of these questions below quickly and precisely.
 
+Here are some books and MOOCs that may be useful for you.
+
+MOOCs:
+
+ - Stanford CS231n
+ - Stanford CS224n
+ - Coursera Deep learning specialization
+ - Berkeley CS 188: Introduction to Artificial Intelligence
+ - Deep Reinforcement Learning - UC Berkeley
+ - Oxford Deep NLP 2017 course
+ - Yida Xu's Machine Learning Course
+
+Books:
+
+ - Pattern Recognition and Machine Learning
+ - The Element of Statistical Learning
+ - Machine Learning: A Probabilistic Perspective
+ - Deep Learning Book
+ - Reinforcement Learning: An Introduction
+ - Artificial Intelligence A Modern Approach
+
 ### Behavior and Background
 1. Introduce yourself.
 2. Tell me your past internship or some other projects. 
