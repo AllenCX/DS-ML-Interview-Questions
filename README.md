@@ -2,7 +2,10 @@
 
 ---
 Last update: 11/16/2018
-To be a good DS or MLE, you have to answer most of these questions below quickly and precisely.
+
+This is a personal summary of common DS/ML interview questions and will be regularly updated, you are welcome to pull request or discuss the answer with me:)
+
+To be a good DS or MLE, you have to answer most of these questions below quickly and precisely:)
 
 Here are some books and MOOCs that may be useful for you.
 
@@ -144,6 +147,9 @@ Books:
 ### Miscellaneous
 1. What is the idea of Map Reduce?
 
+
+## TODO: Statistic and Probability
+
 ## Case Study
 You are given a specific case and you need to give a solution for the problem.
 
@@ -157,6 +163,7 @@ You are given a specific case and you need to give a solution for the problem.
 3. Use ML packages to complete certain tasks.
 4. Some medium level (refer to Leetcode) coding questions.
 5. How to handle exceptions in Python.
+6. Implement K-means, KNN, Linear Regression, Logistic Regression, Simple Neural Network.
 
 ### Pandas
 1. Use Pandas to manipulate data.
