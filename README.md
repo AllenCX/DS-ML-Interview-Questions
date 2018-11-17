@@ -1,4 +1,4 @@
-# DS-ML-Interview-Cheatsheet
+# DS-ML-Interview-Questions
 
 ---
 Last update: 11/16/2018
@@ -117,6 +117,9 @@ To be a good DS or MLE, you have to answer most of these questions below quickly
 2. What are the common techniques to preprocess the image data?
 3. What are the kernel and pooling in CNN?
 4. What is GAN, the structure and the way we train it.
+
+## Case Study
+You are given a specifi case and you need to give a solution for the problem.
 
 ## Coding
 ### SQL
