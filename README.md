@@ -15,6 +15,7 @@ MOOCs:
  - Deep Reinforcement Learning - UC Berkeley
  - Oxford Deep NLP 2017 course
  - Yida Xu's Machine Learning Course
+ - IFT6266, Deep Learning, graduate class at U. Montreal
 
 Books:
 
@@ -132,6 +133,7 @@ Books:
 2. What is word embedding and its idea? What is the difference between sampled softmax and negative sampling? Do you know the relationship between negative sampling and Pointwise Mutual Information(Bouns)
 3. What are unigram and bigram?
 4. What is the attention machanism?
+5. (Bonus) Explain LDA topic model.
 
 ### Computer Vision and DL
 1. What is the difference between simple CNN and Inception Net and ResNet?
@@ -139,18 +141,22 @@ Books:
 3. What are the kernel and pooling in CNN?
 4. What is GAN, the structure and the way we train it.
 
+### Miscellaneous
+1. What is the idea of Map Reduce?
+
 ## Case Study
-You are given a specifi case and you need to give a solution for the problem.
+You are given a specific case and you need to give a solution for the problem.
 
 ## Coding
 ### SQL
 1. select, group by, left, right, inner outter join...
 
 ### Python coding and concepts
-1. What is difference between Tuple and List?
+1. What is the key difference between Tuple and List?
 2. What is the list comprehension?
 3. Use ML packages to complete certain tasks.
 4. Some medium level (refer to Leetcode) coding questions.
+5. How to handle exceptions in Python.
 
 ### Pandas
 1. Use Pandas to manipulate data.
